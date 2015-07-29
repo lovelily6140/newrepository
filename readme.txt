@@ -4,4 +4,8 @@ git has a mutable index called stage.
 git tracks changes of files.
 git is very quick soon.
 switch to branch yet.
+<<<<<<< HEAD
+223322
+=======
 2222
+>>>>>>> parent of f5324d8... AAAA
