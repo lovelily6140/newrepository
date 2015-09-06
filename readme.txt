@@ -4,16 +4,5 @@ git has a mutable index called stage.
 git tracks changes of files.
 git is very quick yet.
 switch to branch yet.
-<<<<<<< HEAD
-223322
-=======
+2222
 2223
->>>>>>> parent of f5324d8... AAAA
-
-<<<<<<< Updated upstream
-BBB
-=======
-
-BBCCB
-11122233
->>>>>>> Stashed changes
