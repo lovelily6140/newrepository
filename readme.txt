@@ -7,7 +7,13 @@ switch to branch yet.
 <<<<<<< HEAD
 223322
 =======
-22232
+2223
 >>>>>>> parent of f5324d8... AAAA
 
+<<<<<<< Updated upstream
 BBB
+=======
+
+BBCCB
+11122233
+>>>>>>> Stashed changes
