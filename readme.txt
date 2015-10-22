@@ -4,7 +4,7 @@ git has a mutable index called stage.
 git tracks changes of files.
 git is very quick.
 switch to branch yet.
-223322
+2233222
 111git is very quick soon.
 switch to branch yet.
 223322
